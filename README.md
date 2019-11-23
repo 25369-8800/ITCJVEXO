@@ -1,4 +1,6 @@
 # ITCJVEXO
+http://127.0.0.1:5500/Index.html
+
 Pour valider mon site web je vérifie les conditions W3C:
 
 I. Je dois déclarer une doctrine du W3C et commencer au début de mon fichier html avec "!"
